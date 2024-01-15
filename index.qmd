@@ -1,11 +1,23 @@
 ---
-title: "KajariaS.github.io"
+title: "Swaty Kajaria"
+image: NOLA.jpg
+about:
+  template: trestles
+  image-shape: round
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/KajariaS
+    
+    - icon: envelope
+      text: E-mail
+      href: mailto:swaty.kajaria@uga.edu
 ---
 
-This is a Quarto website. y not working.
+I am a fourth year PhD student in the Department of Agriculture and Applied Economics at the University of Georgia, Athens.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Prior to coming to Athens, I was working with a bank in India as Risk Analyst
 
-```{r}
-1 + 1
-```
+My interest are: Environmental Economics, Natural Resource Economics, Data Analysis, Geographic Information System (GIS) and Geospatial Artificial Intelligence.
+
+Link to my [Rpubs](https://rpubs.com/Cliff)

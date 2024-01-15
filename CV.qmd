@@ -1,0 +1,12 @@
+---
+title: "CV" 
+---
+
+```{=html}
+<iframe
+  src="Swaty Kajaria.pdf"
+  width="800"
+  height="800">
+  
+</iframe>
+```
