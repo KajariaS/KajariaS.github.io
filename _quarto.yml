@@ -7,15 +7,24 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - CV.qmd
+      - href: CV.qmd
+        text: CV
+      - href: Research.qmd
+        text: Research
+      - href: Teaching.qmd
+        text: Teaching
+      - href: Industry.qmd
+        text: Industry
+
+
 
       
 
 format:
   html:
     theme:
+      light: lumen
       dark: solar
-      light: minty
     css: styles.css
     toc: true
 

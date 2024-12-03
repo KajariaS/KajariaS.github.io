@@ -1,6 +1,6 @@
 ---
 title: "Swaty Kajaria"
-image: NOLA.jpg
+image: swaty_aaea2.jpg
 about:
   template: trestles
   image-shape: round
@@ -12,12 +12,15 @@ about:
     - icon: envelope
       text: E-mail
       href: mailto:swaty.kajaria@uga.edu
+class: custom-about
 ---
 
-I am a fourth year PhD student in the Department of Agriculture and Applied Economics at the University of Georgia, Athens.
+I am a Ph.D. candidate in Agricultural & Applied Economics at the University of Georgia, Athens, focusing on the economics of environmental resources. 
 
-Prior to coming to Athens, I was working with a bank in India as Risk Analyst
+My research examines how mangroves influence housing prices and community views in southwest Florida, highlighting households' willingness to pay for mangroves through property values. I also investigate the resilience mangroves provide to property values during hurricane events. 
 
-My interest are: Environmental Economics, Natural Resource Economics, Data Analysis, Geographic Information System (GIS) and Geospatial Artificial Intelligence.
+Prior to graduate school, I worked in the banking sector in India, managing risk reporting and ensuring compliance with regulatory standards. I handled complex escalated customer cases, working directly with the Banking Ombudsman and regulatory authorities to resolve high-stakes issues.
+
+I am on the job market for the 2024-25 academic year. Please feel free to reach out at swaty.kajaria\@uga.edu
 
 Link to my [Rpubs](https://rpubs.com/Cliff)

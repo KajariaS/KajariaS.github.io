@@ -4,7 +4,7 @@ title: "CV"
 
 ```{=html}
 <iframe
-  src="Swaty Kajaria.pdf"
+  src="Swaty_Academic.pdf"
   width="800"
   height="800">
   

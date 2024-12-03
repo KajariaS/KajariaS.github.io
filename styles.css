@@ -1,1 +1,18 @@
 /* css styles */
+.custom-about {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.custom-about img {
+  flex: 0 0 40%; /* Image takes 40% of the width */
+  max-width: 100%; /* Ensure it doesn't overflow */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.custom-about div {
+  flex: 0 0 60%; /* Text takes 60% of the width */
+  padding-left: 1rem; /* Add some spacing between image and text */
+}
+

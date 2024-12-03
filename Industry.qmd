@@ -1,0 +1,21 @@
+---
+title: "Industry Experience"
+---
+
+#### **Division Manager - Fincare Small Finance Bank, Bangalore, (India), Oct 2016 - Nov 2020**
+
+-   Managed and monitored the bank's liquidity risk, ensuring accurate forecasting and control
+-   Prepared and reported the bank’s statutory liquidity profile to regulatory authorities
+-   Automated risk reporting systems and ensured compliance with Reserve Bank of India (RBI) regulations
+-   Handled escalated customer complaints, resolving cases with the Banking Ombudsman and RBI
+
+#### **Manager - Risk Analytics, FFSL - Disha Microfin, Bangalore, (India), Apr 2015 - Oct 2016:**
+
+-   Streamlined credit check processes and sanction decision logic for risk management
+-   Handled data management and ensured compliance with regulatory reporting requirements
+-   Onboarded and integrated credit bureaus for enhanced report analysis
+-   Led Aadhar-based e-KYC testing and pilot programs for Microfinance
+
+#### **Software Engineer, Mindteck (India) Pvt Limited, Bangalore, (India), May 2011 - May 2013:**
+
+-   Testing of Storage software for the NetApp products
